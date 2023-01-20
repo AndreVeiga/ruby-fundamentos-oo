@@ -10,10 +10,10 @@ java = Livro.new "Java", 100, 1990, false, "Casa do Código"
 php = Livro.new "PHP", 100, 2010, true, "Casa do Código"
 node = Livro.new "Node", 100, 2012, true, "Casa do Código"
 
-crescer = Revista.new "Crescer", 50, 2017, "Casa do Educador"
-nascer = Revista.new "Nascer", 50, 2017, "Casa do Educador"
-viver = Revista.new "Viver", 50, 2017, "Casa do Educador"
-evoluir = Revista.new "Evoluir", 50, 2017, "Casa do Educador"
+crescer = Revista.new "Crescer", 50, 2017, "Casa do Educador", 1
+nascer = Revista.new "Nascer", 50, 2017, "Casa do Educador", 2
+viver = Revista.new "Viver", 50, 2017, "Casa do Educador", 3
+evoluir = Revista.new "Evoluir", 50, 2017, "Casa do Educador", 4
 
 python = Ebook.new "Python", 39.9, 2010, "Casa do Código"
 
